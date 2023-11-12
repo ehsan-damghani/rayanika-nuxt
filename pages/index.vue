@@ -8,7 +8,8 @@
             </a>
             <Icon name="ic:baseline-play-arrow" style="-webkit-transform: rotate(-90deg);" class="mb-auto fs-32" />
         </div>
-        <div class="w-100 d-flex">
+        <div class="w-100 d-flex position-relative">
+            <a href="/poster.jpg" target="_blank" class="poster-link">فراخوان برنامه</a>
             <img src="~/assets/img/landing-banner.svg" class="w-100 my-auto" style="max-height: 767px;">
         </div>
     </div>
@@ -38,6 +39,23 @@
     display: flex;
     align-items: center;
 }
+.poster-link {
+    color: white;
+    background-color: #190e8e;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 8px 24px;
+    border-radius: 16px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    white-space: nowrap;
+    top: 16px;
+    right: 16px;
+}
+
 
 .register-link:hover {
     background-color: rgba(255, 255, 255, 0.8);
