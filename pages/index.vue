@@ -3,7 +3,7 @@
         <div class="side-container">
             <Icon name="ic:baseline-play-arrow" style="-webkit-transform: rotate(90deg);" class="mt-auto fs-32" />
             <span class="mt-5 fs-32 fw-bold mb-5">ثبت فناوری ها، محصولات و ایده‌ها برای شرکت در برنامه ملی حمایت از نوآوری های رایانیکی</span>
-            <a href="http://register.rayanika1402.ir" class="mb-5 register-link">
+            <a href="https://rayanika1402.ir/register" class="mb-5 register-link">
                 <span>فرم های ثبت مشخصات محصولات و ایده‌ها را در اینجا پیدا کنید</span>
             </a>
             <Icon name="ic:baseline-play-arrow" style="-webkit-transform: rotate(-90deg);" class="mb-auto fs-32" />
